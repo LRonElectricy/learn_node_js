@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/LRonElectricy/learn_node_js/issues"
   },
-  "homepage": "https://github.com/LRonElectricy/learn_node_js#readme"
+  "homepage": "https://github.com/LRonElectricy/learn_node_js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
 }
