@@ -1,0 +1,19 @@
+{
+  "name": "learn_node_js",
+  "version": "1.0.0",
+  "description": "lern node js",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRonElectricy/learn_node_js.git"
+  },
+  "author": "LRon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRonElectricy/learn_node_js/issues"
+  },
+  "homepage": "https://github.com/LRonElectricy/learn_node_js#readme"
+}
